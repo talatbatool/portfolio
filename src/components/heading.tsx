@@ -1,4 +1,4 @@
-import { title } from 'node:process'
+
 import React from 'react'
 interface propsType {
     title:string;
