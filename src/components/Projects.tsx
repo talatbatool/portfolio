@@ -1,5 +1,5 @@
 import React from 'react'
-import heading from './heading'
+
 import Card from './Card'
 
 const Projects = () => {

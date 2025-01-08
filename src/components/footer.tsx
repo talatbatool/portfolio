@@ -1,9 +1,9 @@
-import { Span } from "next/dist/trace";
+
 import React from "react";
 const Footer =() =>{
     return (
     <div>
-        
+        all rights talat batool
     </div>
     )
 }
